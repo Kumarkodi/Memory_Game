@@ -1,6 +1,6 @@
 # Memory_Game
 
-Memory card games are a classic game that has been around for ages. It is a game that tests a player's memory and cognitive skills. A game that can be played solo or with friends, it involves flipping over cards and matching them with their pairs to score points.
+Memory card games are a classic game that has been around for ages. It is a game that tests a player's memory and cognitive skills. A game that can be played solo or with friends involves flipping over cards and matching them with their pairs to score points.
 
 To create a memory card game using HTML, CSS, and JavaScript, we need to start by designing the layout of the game using HTML. The layout of the game typically includes the game board, cards, and any other interface elements such as a timer or a score counter.
 
@@ -15,3 +15,6 @@ To play the game, the player will have to click on two cards. The JavaScript cod
 The game continues until all pairs have been matched. At the end of the game, the player's score is displayed, and the player has the option to play again.
 
 In conclusion, creating a memory card game using HTML, CSS, and JavaScript is an excellent way to improve your coding skills. The game is not only fun to play but also an excellent way to test your problem-solving skills. By following the steps outlined above, you can create a memory card game that will keep your players entertained for hours.
+
+
+Link to the above project: https://kumarkodi.github.io/Memory_Game/
